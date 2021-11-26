@@ -1,0 +1,27 @@
+[
+  {
+    "name": "product_code",
+    "type": "INTEGER",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "week",
+    "type": "DATE",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "prediction",
+    "type": "FLOAT",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "observation",
+    "type": "FLOAT",
+    "mode": "REQUIRED"
+  },
+  {
+    "name": "exec_id",
+    "type": "STRING",
+    "mode": "REQUIRED"
+  }
+]
