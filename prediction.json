@@ -6,7 +6,7 @@
   },
   {
     "name": "week",
-    "type": "DATE",
+    "type": "STRING",
     "mode": "REQUIRED"
   },
   {
